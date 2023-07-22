@@ -1,3 +1,3 @@
 .DS_Store
 # large podcast episodes may cause git errors
-.mp3 
+*.mp3
