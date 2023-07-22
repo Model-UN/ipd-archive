@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Brandon Garcia, Executive Editor &#8211; The CIMUN Chronicle</title>
+	<atom:link href="/archive/2022/author/brandonipd/feed/?simply_static_page=298" rel="self" type="application/rss+xml" />
+	<link>/archive/2022</link>
+	<description>News from the International Press Delegation</description>
+	<lastBuildDate>Sat, 05 Feb 2022 01:00:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Welcome to CIMUN XVIII!</title>
+		<link>/archive/2022/welcome-to-cimun-xviii/</link>
+		
+		<dc:creator><![CDATA[Brandon Garcia, Executive Editor]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 03:23:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/archive/2022/?p=385</guid>
+
+					<description><![CDATA[Check back throughout the conference for news from the International Press Delegation.]]></description>
+										<content:encoded><![CDATA[
+<p>Check back throughout the conference for news from the International Press Delegation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

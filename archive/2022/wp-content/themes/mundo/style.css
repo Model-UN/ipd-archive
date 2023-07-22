@@ -1,0 +1,68 @@
+/*
+ Theme Name:   MUNDO
+ Description:  MUNDO IPD Site Theme
+ Author:       Michael McCarthy
+ Author URI:   https://michaelmcc.com
+ Template:     fairy
+ Version:      1.0.5
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         mundo
+ Text Domain:  mundo
+*/
+
+.wp-block-image figcaption {
+	text-align: right;
+}
+
+.site-title {
+	margin: 0 0 5px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2.3em;
+	font-family: 'Libre Baskerville', serif;
+}
+
+/* Hide the logo */
+.custom-logo-link {
+	display: none !important;
+}
+
+/* Unless screen in large enough */
+@media screen and (min-width: 768px) {
+	.custom-logo-link {
+		display: block !important;
+		width: 8rem; 
+	}
+}
+
+/* Better bylines */
+.entry-meta > * {
+	display: block;
+}
+
+p.published-date,
+.published-date > span > a > * {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 0.8rem !important;
+}
+
+/* MUNDO Footer */
+.site-footer-mundo {
+	background-color: rgb(19, 76, 114);
+	padding: 40px 0;
+	
+}
+
+.site-footer-mundo p {
+	font-size: 1.2 rem;
+}
+
+.site-footer-mundo a{
+	text-decoration: none;
+}
+
+.site-footer-mundo a:hover{
+	color: #bbbbbb;
+	text-decoration: underline;
+}
