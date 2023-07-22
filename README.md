@@ -14,6 +14,16 @@ Annual conference archives can be contributed by creating a new directory named 
 
 The SimplyStatic plugin for WordPress can generate the contents of this folder as static HTML pages with relative links. Links to internal URLs should be relative to the root directory and start with the name of this repository followed by the appropriate conference archive directory such as `/ipd-archive/2022/path/to/file.html`. You should specify the relative path in the plugin settings as beginning with `/ipd-archive/2022/`.
 
+Add a link back to the list of archives for usability. Append the following to the header menu bar:
+
+```html
+<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-423">
+    <a href="/ipd-archive/">Archives</a>
+</li>
+```
+
+This link can also be added to the menu in WordPress before exporting the static site.
+
 We use GitHub Pages to serve the entire repository as a website. GitHub automatically converts Markdown to HTML and supports custom HTML, CSS, and JavaScript.
 
 Note that WordPress uses a URL convention on js and css files that is not compatible with the way files linked on GitHub Pages. WordPress appends a version string like `` to these source URLs. Before pushing a new archive, users should remove these strings to ensure that the CSS and JS files are loaded properly. The regex `\?ver=\d+(\.\d+)*` can be used to find most numeric version strings and remove them.
