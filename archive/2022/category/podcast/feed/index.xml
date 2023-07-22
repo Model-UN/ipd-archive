@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Podcast &#8211; The CIMUN Chronicle</title>
-	<atom:link href="/archive/2022/category/podcast/feed/?simply_static_page=167" rel="self" type="application/rss+xml" />
+	<atom:link href="/ipd-archive/archive/2022/category/podcast/feed/?simply_static_page=167" rel="self" type="application/rss+xml" />
 	<link>/archive/2022</link>
 	<description>News from the International Press Delegation</description>
 	<lastBuildDate>Sun, 06 Feb 2022 18:01:29 +0000</lastBuildDate>
@@ -37,7 +37,7 @@
 
 
 
-<figure class="wp-block-image size-large" datatext=""><img decoding="async" width="1024" height="512" src="/archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1024x512.jpg" alt="" class="wp-image-714" srcset="/archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1024x512.jpg 1024w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-300x150.jpg 300w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-768x384.jpg 768w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1536x768.jpg 1536w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large" datatext=""><img decoding="async" width="1024" height="512" src="/ipd-archive/archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1024x512.jpg" alt="" class="wp-image-714" srcset="/ipd-archive/archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1024x512.jpg 1024w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-300x150.jpg 300w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-768x384.jpg 768w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2-1536x768.jpg 1536w, /archive/2022/wp-content/uploads/2022/02/WM-CSL-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
 		
@@ -55,7 +55,7 @@
 
 					<description><![CDATA[Speaker 1 0:06You’re Listening to WMUN- CIMUN News Radio This news update has been brought to you by the Duck and Cover! Parents, make sure]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio" datatext=""><audio controls src="/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-4.mp3"></audio></figure>
+<figure class="wp-block-audio" datatext=""><audio controls src="/ipd-archive/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-4.mp3"></audio></figure>
 
 
 
@@ -105,7 +105,7 @@
 
 					<description><![CDATA[Speaker 1 0:07Welcome back to the Nightcap, brought to you by the CIMUN Chronicle. Today’s World News Roundtable is brought to you by NFTs. For]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio" datatext=""><audio controls src="/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-3.mp3"></audio></figure>
+<figure class="wp-block-audio" datatext=""><audio controls src="/ipd-archive/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-3.mp3"></audio></figure>
 
 
 
@@ -158,11 +158,11 @@
 
 					<description><![CDATA[TRANSCRIPT: Speaker 1 0:07 You’re listening to WMUN - CIMUN News Radio. Here is your news at the top of the hour. AD 0:13 This]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio" datatext=""><audio controls src="/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-Episode-2.mp3"></audio></figure>
+<figure class="wp-block-audio" datatext=""><audio controls src="/ipd-archive/archive/2022/wp-content/uploads/2022/02/CIMUN-Podcast-Episode-2.mp3"></audio></figure>
 
 
 
-<figure class="wp-block-image size-large" datatext=""><img decoding="async" loading="lazy" width="1024" height="602" src="/archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1024x602.jpg" alt="" class="wp-image-472" srcset="/archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1024x602.jpg 1024w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-300x176.jpg 300w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-768x452.jpg 768w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1536x904.jpg 1536w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-2048x1205.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large" datatext=""><img decoding="async" loading="lazy" width="1024" height="602" src="/ipd-archive/archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1024x602.jpg" alt="" class="wp-image-472" srcset="/ipd-archive/archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1024x602.jpg 1024w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-300x176.jpg 300w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-768x452.jpg 768w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-1536x904.jpg 1536w, /archive/2022/wp-content/uploads/2022/02/Chicago_skyline_74255_cropped-2048x1205.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -172,30 +172,39 @@
 You’re listening to WMUN - CIMUN News Radio. Here is your news at the top of the hour. 
 
 <strong>AD  0:13 </strong> 
-This news update has been brought to you by SUBURBS. The Suburbs: Are you tired of living in crowded cities? Do you want to live the AMERICAN DREAM? Do you want to have a house with a white picket fence and 2 kids and a dog? Of course you do, you’re a true-blooded American after all. The American Dream is here. Move to the Suburbs! *RESTRICTIONS APPLY*  
+This news update has been brought to you by SUBURBS. The Suburbs: Are you tired of living in crowded cities? Do you want to live the AMERICAN DREAM? Do you want to have a house with a white picket fence and 2 kids and a dog? Of course you do, you’re a true-blooded American after all. The American Dream is here. Move to the Suburbs! *RESTRICTIONS APPLY*
+  
 
 <strong>Speaker 2  0:27 </strong> 
 In Washington, the Senate has been in debate over the situation on the Korean Peninsula. Senators have to consider if they should authorize President Truman to deploy military and financial assistance to the South Korean Government. 
 
-The New York Times is reporting that “Some Senators are considering lethal force in response to the threat of the USSR and North Korea”. One Senator, on the condition of anonymity, said that the move would involve striking North Korea and Russia with “such  force that they cannot respond”. More developments as they come. 
-<strong>
+The New York Times is reporting that “Some Senators are considering lethal force in response to the threat of the USSR and North Korea”. One Senator, on the condition of anonymity, said that the move would involve striking North Korea and Russia with “such 
+ force that they cannot respond”. More developments as they come
+. 
+
+<strong>
 Speaker 1  0:52 </strong> 
 Meanwhile, President Truman and his cabinet have met with Republic of Korea president Syngman Rhee. We expect an official statement soon. 
 
 In New York, the United Nations Security Council is debating on whether they should take proactive measures on the Korean peninsula. Western nations favor these measures while the Eastern bloc has opposed international intervention. More updates will come as they are available.
-<strong>
+
+<strong>
 Speaker 3  1:15  </strong>
 The Soviets have met with Mao Zedong of China and Kim Il-Sung of North Korea, in a summit of socialist powers in Asia, and discussed the situation on the Korean Peninsula and how to “Foster a region safe for Communism,”
 
 Furthermore, Joseph Stalin has discussed how to protect and proliferate communism around the globe.
 
-Meanwhile, Mao Zedong and the People’s Republic of China have discussed how to expand the influence of communism into traditionally Chinese areas. 
+Meanwhile, Mao Zedong and the People’s Republic of China have discussed how to expand the influence of communism into traditionally Chinese areas.
+ 
 
-Kim Il-Sung has discussed protecting the security and stability of the Democratic People’s Republic of Korea, as well as how to best prevent the Western Threat. 
+Kim Il-Sung has discussed protecting the security and stability of the Democratic People’s Republic of Korea, as well as how to best prevent the Western Threat.
+ 
 
 <strong>Speaker 1  1:53  </strong>
-This has been your NEWS on the Hour. Stay tuned to WMUN- CIMUN News Radio 
-
+This has been your NEWS on the Hour. Stay tuned to WMUN- CIMUN News Radio
+ 
+
+
 </pre>
 ]]></content:encoded>
 					
@@ -205,11 +214,11 @@ This has been your NEWS on the Hour. Stay tuned to WMUN- CIMUN News Radio
 		<item>
 		<title>The Nightcap Episode 1</title>
 		<link>/archive/2022/the-nightcap-episode-1/</link>
-		
+		"/ipd-archive/archive
 		<dc:creator><![CDATA[Ruchi Akula, Assistant Editor]]></dc:creator>
 		<pubDate>Sat, 05 Feb 2022 15:10:48 +0000</pubDate>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[Top Stories]]></category>
+		<category><![CDATA[Top Stories]]></category>"/ipd-archive/archive"/ipd-archive/archive
 		<guid isPermaLink="false">/archive/2022/?p=442</guid>
 
 					<description><![CDATA[Transcript: Speaker 1 0:00 Hey everyone, welcome to The Nightcap, brought to you by The CIMUN Chronicle. Moving on to world headlines, a fistfight broke]]></description>

@@ -12,7 +12,7 @@
 
 <channel>
 	<title>AP Wire &#8211; The CIMUN Chronicle</title>
-	<atom:link href="/archive/2021/category/ap-wire/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/ipd-archive/archive/2021/category/ap-wire/feed/" rel="self" type="application/rss+xml" />
 	<link>/archive/2021</link>
 	<description>News from the International Press Delegation</description>
 	<lastBuildDate>Wed, 10 Feb 2021 01:18:09 +0000</lastBuildDate>
@@ -53,7 +53,7 @@
 
 					<description><![CDATA[Sponsored by SimpliSafe Transcript Joe 0:03 All right. Hello, everyone, welcome to Not Your Average Cup of Joe, and the emergency podcast version of the]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio"><audio controls src="/archive/2021/wp-content/uploads/2021/02/podcast-ep-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/ipd-archive/archive/2021/wp-content/uploads/2021/02/podcast-ep-2.mp3"></audio></figure>
 
 
 
@@ -519,7 +519,7 @@
 
 					<description><![CDATA[Transcript: Joe 0:03 All right. Hello, everyone. Welcome to Average Cup of Joe with Joe, our emergency podcast version of Joe In the Morning. Today]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio"><audio controls src="/archive/2021/wp-content/uploads/2021/02/GMT20210206-192531_Nicolas-Bu_1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/ipd-archive/archive/2021/wp-content/uploads/2021/02/GMT20210206-192531_Nicolas-Bu_1.mp3"></audio></figure>
 
 
 

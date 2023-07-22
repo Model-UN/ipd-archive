@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Isabella Rosinia, BuzzFeed News &#8211; The CIMUN Chronicle</title>
-	<atom:link href="/archive/2021/author/irosinia/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/ipd-archive/archive/2021/author/irosinia/feed/" rel="self" type="application/rss+xml" />
 	<link>/archive/2021</link>
 	<description>News from the International Press Delegation</description>
 	<lastBuildDate>Sun, 07 Feb 2021 18:20:49 +0000</lastBuildDate>

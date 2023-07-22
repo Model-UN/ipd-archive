@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Top Stories &#8211; The CIMUN Chronicle</title>
-	<atom:link href="/archive/2021/category/top-articles/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/ipd-archive/archive/2021/category/top-articles/feed/" rel="self" type="application/rss+xml" />
 	<link>/archive/2021</link>
 	<description>News from the International Press Delegation</description>
 	<lastBuildDate>Sun, 07 Feb 2021 00:13:00 +0000</lastBuildDate>
@@ -35,7 +35,7 @@
 
 					<description><![CDATA[Sponsored by SimpliSafe Transcript Joe 0:03 All right. Hello, everyone, welcome to Not Your Average Cup of Joe, and the emergency podcast version of the]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio"><audio controls src="/archive/2021/wp-content/uploads/2021/02/podcast-ep-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/ipd-archive/archive/2021/wp-content/uploads/2021/02/podcast-ep-2.mp3"></audio></figure>
 
 
 

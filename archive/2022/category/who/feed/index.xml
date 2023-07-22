@@ -12,7 +12,7 @@
 
 <channel>
 	<title>World Health Organization (WHO) &#8211; The CIMUN Chronicle</title>
-	<atom:link href="/archive/2022/category/who/feed/?simply_static_page=102" rel="self" type="application/rss+xml" />
+	<atom:link href="/ipd-archive/archive/2022/category/who/feed/?simply_static_page=102" rel="self" type="application/rss+xml" />
 	<link>/archive/2022</link>
 	<description>News from the International Press Delegation</description>
 	<lastBuildDate>Sun, 06 Feb 2022 01:51:20 +0000</lastBuildDate>
