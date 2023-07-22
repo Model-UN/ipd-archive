@@ -261,7 +261,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio" datatext=""><audio controls src="https://model-un.github.io/ipd-archive/assets/CIMUN-Podcast-5.mp3"></audio></figure>
+<figure class="wp-block-audio" datatext=""><audio controls src="/ipd-archive/assets/CIMUN-Podcast-5.mp3"></audio></figure>
 
 
 
