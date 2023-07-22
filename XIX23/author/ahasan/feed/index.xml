@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Abdul Hasan, The Guardian &#8211; The CIMUN Chronicle</title>
+	<atom:link href="/ipd-archive/XIX23/author/ahasan/feed/?simply_static_page=1406" rel="self" type="application/rss+xml" />
+	<link>/ipd-archive/XIX23</link>
+	<description>News from the International Press Delegation</description>
+	<lastBuildDate>Sat, 22 Jul 2023 18:49:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Global Women&#8217;s and Children&#8217;s Rights</title>
+		<link>/ipd-archive/XIX23/global-womens-and-childrens-rights/</link>
+		
+		<dc:creator><![CDATA[Abdul Hasan, The Guardian]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2023 19:28:58 +0000</pubDate>
+				<category><![CDATA[African Union]]></category>
+		<category><![CDATA[Present Day]]></category>
+		<guid isPermaLink="false">https://press.cimun.org/news/?p=951</guid>
+
+					<description><![CDATA[Tragic stories are heard every single day about women and children getting abused. Countries and committees are scrambling to figure out how to fix this]]></description>
+										<content:encoded><![CDATA[
+<p>Tragic stories are heard every single day about women and children getting abused. Countries and committees are scrambling to figure out how to fix this pressing problem. Some areas that suffer the most from the lack of women&#8217;s and children&#8217;s rights are Africa, South America, and some parts of south-eastern Asia. As of Feb. 2, 2023, the African Union is currently working on a directive that will fix the education system in Africa which promises to exponentially and drastically increase the number of jobs there are in the near future. This is amazing for Africa because they are known for their poor children&#8217;s rights and hopefully this directive will make Africa take a turn for the better.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>China &#8211; The CIMUN Chronicle</title>
+	<atom:link href="/ipd-archive/2022/tag/china/feed/?simply_static_page=292" rel="self" type="application/rss+xml" />
+	<link>/2022</link>
+	<description>News from the International Press Delegation</description>
+	<lastBuildDate>Sat, 05 Feb 2022 22:48:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>INTERVIEW: Secretary of Defense Austin on China-US relations</title>
+		<link>/2022/interview-secretary-of-defense-austin-on-china-us-relations/</link>
+		
+		<dc:creator><![CDATA[Janean Edmond, The Times (South Africa)]]></dc:creator>
+		<pubDate>Sat, 05 Feb 2022 20:07:18 +0000</pubDate>
+				<category><![CDATA[Cabinet of the United States of America]]></category>
+		<category><![CDATA[Top Stories]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[United States Cabinet]]></category>
+		<guid isPermaLink="false">/2022/?p=524</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Sunday Times of South Africa does virtual interview with Secretary of Defense of US Cabinet" width="640" height="360" src="https://www.youtube.com/embed/32IY-4JdvGI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

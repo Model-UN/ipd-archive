@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Michael McCarthy, Executive Editor &#8211; The CIMUN Chronicle</title>
+	<atom:link href="/ipd-archive/XIX23/author/michaelipd/feed/?simply_static_page=1482" rel="self" type="application/rss+xml" />
+	<link>/ipd-archive/XIX23</link>
+	<description>News from the International Press Delegation</description>
+	<lastBuildDate>Fri, 03 Feb 2023 15:55:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>CIMUN Newsradio Episode 1</title>
+		<link>/ipd-archive/XIX23/cimun-newsradio-episode-1/</link>
+		
+		<dc:creator><![CDATA[Michael McCarthy, Executive Editor]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2023 02:10:29 +0000</pubDate>
+				<category><![CDATA[Council of Ministers of Iraq (1982)]]></category>
+		<category><![CDATA[Historical]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://press.cimun.org/news/?p=862</guid>
+
+					<description><![CDATA[[White Wedding &#8211; Billy Idol] Robert: Welcome back folks, you&#8217;re listening to CIMUN Newsradio, I’m Robert Jennings along with&#160;Barb Hayes. You just heard White Wedding]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://press.cimun.org/news/wp-content/uploads/2023/02/Hist-podcast-1.mp3"></audio></figure>
+
+
+
+<p>[White Wedding &#8211; Billy Idol]</p>
+
+
+
+<p>Robert: Welcome back folks, you&#8217;re listening to CIMUN Newsradio, I’m Robert Jennings along with&nbsp;Barb Hayes. You just heard White Wedding by Billy Idol as part of our Rockin&#8217; Hard lunch hour. Speaking of white weddings, we’ve got a special offer for all the brides-to-be out there. Bella Rose Boutique, the city’s premiere bridal destination, is taking $200 off the price of all bridal gowns this weekend. Move over Cinderella, there’s a new princess in town!”</p>
+
+
+
+<p>Barb: It’s the top of the hour, time for a news update.</p>
+
+
+
+<p>Barb: The U.K. is facing record unemployment with more than 3 million people out of work. Prime Minister Thatcher is committing to put Britons back to work and promises to continue building up business rather than letting her country fall to socialism.</p>
+
+
+
+<p>Robert: As President Reagan looks to refocus in the second year of his presidency, the crisis in Afghanistan rages on. The Mujahideen are pushing back and the Soviets continue to suffer losses but unfortunately the Communists have not been expelled.</p>
+
+
+
+<p>Barb: Excuse me, HOLD up, HOLD UP Robert, we have some breaking news</p>
+
+
+
+<p>Iraqi Health Minister Dr. Riyadh Ibrahim was shot and has died. Early reports indicate Iraqi President Saddam Hussein ordered his death. The doctor had recently suggested pursuing the peace process with Iran to end the war between the two warring countries.&nbsp;</p>
+
+
+
+<p>Robert: Gee golly, that’s no good, we have this recording of the gunshot to share.</p>
+
+
+
+<p>[Gunshot]</p>
+
+
+
+<p>Robert: Thank you for that update. Stay with us here at CIMUN NewsRadio on 93.5 FM as we learn more.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Welcome to CIMUN XIX!</title>
+		<link>/ipd-archive/XIX23/welcome-to-cimun-xix/</link>
+		
+		<dc:creator><![CDATA[Michael McCarthy, Executive Editor]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2023 20:18:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://press.cimun.org/news/?p=764</guid>
+
+					<description><![CDATA[Check back throughout the conference for news from the International Press Delegation.]]></description>
+										<content:encoded><![CDATA[
+<p>Check back throughout the conference for news from the International Press Delegation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
