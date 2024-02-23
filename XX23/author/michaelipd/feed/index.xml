@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michael McCarthy, Deputy USG for Media &#8211; The CIMUN Chronicle</title>
+	<atom:link href="/ipd-archive/XX23/author/michaelipd/feed/" rel="self" type="application/rss+xml" />
+	<link>/ipd-archive/XX23/</link>
+	<description>News from the International Press Delegation</description>
+	<lastBuildDate>Fri, 08 Dec 2023 18:45:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Friday Liveblog (Historical)</title>
+		<link>/ipd-archive/XX23/2023/12/08/friday-liveblog-historical/</link>
+		
+		<dc:creator><![CDATA[Michael McCarthy, Deputy USG for Media]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2023 16:05:23 +0000</pubDate>
+				<category><![CDATA[Historical Committees]]></category>
+		<category><![CDATA[Presidential Commission on the Status of Women (1962)]]></category>
+		<category><![CDATA[Top Stories Slider]]></category>
+		<category><![CDATA[United Nations General Assembly (1962)]]></category>
+		<category><![CDATA[United Nations Security Council (1962)]]></category>
+		<category><![CDATA[United States Senate (1962)]]></category>
+		<guid isPermaLink="false">/ipd-archive/XX23/?p=191</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Friday Liveblog (Present Day)</title>
+		<link>/ipd-archive/XX23/2023/12/08/friday-liveblog-present-day/</link>
+		
+		<dc:creator><![CDATA[Michael McCarthy, Deputy USG for Media]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2023 16:04:52 +0000</pubDate>
+				<category><![CDATA[Cabinet of the People's Republic of China]]></category>
+		<category><![CDATA[Cabinet of the United States]]></category>
+		<category><![CDATA[Chicago City Council]]></category>
+		<category><![CDATA[PD Committees]]></category>
+		<category><![CDATA[Tencent Corporate Board]]></category>
+		<category><![CDATA[Top Stories Slider]]></category>
+		<category><![CDATA[United Nations General Assembly Plenary]]></category>
+		<category><![CDATA[United Nations Security Council]]></category>
+		<category><![CDATA[X Corporate Board]]></category>
+		<guid isPermaLink="false">/ipd-archive/XX23/?p=189</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Welcome to CIMUN XX!</title>
+		<link>/ipd-archive/XX23/2023/12/06/welcome-to-cimun-xx/</link>
+		
+		<dc:creator><![CDATA[Michael McCarthy, Deputy USG for Media]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 23:00:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/ipd-archive/XX23/?p=46</guid>
+
+					<description><![CDATA[Check back throughout the conference for news from the International Press Delegation.]]></description>
+										<content:encoded><![CDATA[
+<p>Check back throughout the conference for news from the International Press Delegation.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
